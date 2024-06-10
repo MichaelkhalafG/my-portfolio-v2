@@ -1,15 +1,8 @@
 Portfolio of Michael Khalaf
-Welcome to the portfolio website of Michael Khalaf, a dedicated and skilled front-end developer specializing in React.js. This project serves as a personal introduction, showcasing my skills, projects, and contact information.
+Welcome to the portfolio website of Michael Khalaf, a dedicated and skilled front-end developer specializing in React.js. This project is a personal introduction, showcasing my skills, projects, and contact information.
 
-Table of Contents
 About
-Technologies Used
-Setup and Installation
-Features
-Contact
-License
-About
-This portfolio website was created using Create React App (CRA) and serves as a digital resume and showcase of my work. It highlights my professional experience, technical skills, and personal projects, providing an overview of my capabilities as a developer.
+This portfolio website was created using the Create React App (CRA) and serves as a digital resume and showcase of my work. It highlights my professional experience, technical skills, and personal projects, providing an overview of my capabilities as a developer.
 
 Technologies Used
 This project utilizes the following technologies and tools:
@@ -19,20 +12,6 @@ TypeScript: A typed superset of JavaScript that compiles to plain JavaScript
 Styled Components: A library for writing CSS-in-JS, enhancing the styling capabilities in React applications
 Setup and Installation
 To run this project locally, follow these steps:
-
-Clone the repository:
-
-bash
-git clone <https://github.com/MichaelkhalafG/my-portfolio-v2>
-cd my-portfolio-v2
-Install dependencies:
-
-bash
-yarn install
-Start the development server:
-
-bash
-yarn run start
 
 Features
 Responsive Design: Optimized for various screen sizes and devices
